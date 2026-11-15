@@ -10,11 +10,15 @@
 ### 🛠️ Tools
 Python (pandas, NetworkX, Plotly) · Database Systems · Data Visualisation · Statistical Analysis · Excel
 
-### 📌 Featured Project
+### 📌 Featured Projects
 
-**[Global Airport Network Analysis](https://github.com/MelikeGllnv/global-airport-network-analysis)** - Network analysis of 6,000+ airports and 37,000+ routes to identify
-"silent but vital" bridge airports, with interactive geospatial maps and AIM decision-support use cases.
-🌍 [Interactive maps](https://melikegllnv.github.io/global-airport-network-analysis/)
+**[Global Airport Network Analysis](https://github.com/MelikeGllnv/global-airport-network-analysis)** · [🌍 Interactive maps](https://melikegllnv.github.io/global-airport-network-analysis/)
+Network analysis of 6,000+ airports and 37,000+ routes to find "silent but vital" bridge airports, with AIM decision-support use cases.
+`Python` `NetworkX` `Plotly`
+
+**[European Airport Traffic Analysis](https://github.com/MelikeGllnv/european-airport-traffic-analysis)** · [📊 Interactive charts](https://melikegllnv.github.io/european-airport-traffic-analysis/)
+EDA of 688K monthly flight records from 332 airports: seasonality, the COVID-19 shock, hub concentration and data-source quality.
+`Python` `pandas` `statsmodels` `Plotly`
 
 ### 📫 Contact
 melike.gllnv@gmail.com

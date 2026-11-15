@@ -8,7 +8,7 @@
 - 📍 Ankara, Türkiye
 
 ### 🛠️ Tools
-Python (pandas, NetworkX, Plotly) · Database Systems · Data Visualisation · Statistical Analysis · Excel
+Python (pandas, NetworkX, Plotly) · Database Systems · Data Visualisation · Statistical Analysis · Excel · Statsmodels · Matplotlib · Seaborn
 
 ### 📌 Featured Projects
 

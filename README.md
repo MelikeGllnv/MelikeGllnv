@@ -5,7 +5,7 @@
 - 🎓 MSc in Information Systems (Hacettepe University) · BA in Aviation Management (Anadolu University)
 - ✈️ Domain knowledge: airport systems, A-CDM, ground handling, AIM, aviation safety & security
 - 📊 4.5 years of data and document control, and operational reporting on the 1915 Çanakkale Bridge mega-project
-- 📍 Ankara, Türkiye
+
 
 ### 🛠️ Tools
 Python (pandas, NetworkX, Plotly) · Database Systems · Data Visualisation · Statistical Analysis · Excel · Statsmodels · Matplotlib · Seaborn

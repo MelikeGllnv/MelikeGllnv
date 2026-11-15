@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Data Analyst with an aviation background** — I turn operational data into clear insights for airports and airlines.
+**Data Analyst with an aviation background** - I turn operational data into clear insights for airports and airlines.
 
 - 🎓 MSc in Information Systems (Hacettepe University) · BA in Aviation Management (Anadolu University)
 - ✈️ Domain knowledge: airport systems, A-CDM, ground handling, AIM, aviation safety & security
